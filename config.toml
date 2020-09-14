@@ -5,10 +5,12 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
+# **Andre: I changed this**
 title = "Eventer"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# **Andre: I changed this**
 baseurl = "https://wonderful-kepler-da04ff.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
